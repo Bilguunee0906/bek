@@ -1,0 +1,43 @@
+body {
+    background-color: #121212;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    background-color: #9b59b6;
+    border: 3px solid #6c3483;
+    border-radius: 30px;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    background-color: #16a085;
+    border: 4px solid #0e6655;
+    border-radius: 20px;
+}
+
+p {
+    color: #ecf0f1;
+    font-size: 20px;
+    text-align: center;
+}
+
+img {
+    border: 2px solid #7f8c8d;
+    border-radius: 20px;
+}
+
+a {
+    color: #ffffff;
+    background-color: #2980b9;
+    border: 2px solid #1c5980;
+    border-radius: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+}
